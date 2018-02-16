@@ -1,11 +1,16 @@
 # convolutionalg
 a function that demonstrates the convolution algorithm
 
-### Installation
-while in the project root director:
+### Building
+while in the project root directory:
 ```
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make
+```
+### Running
+while in the build directory:
+```
+$ ./run_test
 ```
