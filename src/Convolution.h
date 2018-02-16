@@ -3,4 +3,9 @@
 
 #include <iostream>
 
+double Convolution() {
+
+  return 0.0;
+}
+
 #endif
