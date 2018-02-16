@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.10.2)
+include_directories (src)
+set (GCC_CXX_STANDARD 17)
+set (SOURCES src/test.cc)
+set (CMAKE_RUNTIME_OUTPUT_DIRECTORY .)
+add_executable (run_test ${SOURCES})

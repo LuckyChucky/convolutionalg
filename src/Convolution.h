@@ -1,0 +1,6 @@
+#ifndef CONVOLUTIONALG_INCLUDE_CONVOLUTION_H_
+#define CONVOLUTIONALG_INCLUDE_CONVOLUTION_H_
+
+#include <iostream>
+
+#endif
